@@ -1,0 +1,7 @@
+Go through $ARGUMENTS which should be task you are going to implement.
+Then proceed to create or edit files to complete the task. After you complete all the requirements in the story, make sure to check it against the definition of done.
+Run builds  after each story, use docker-compose to do that. Run all safe commands without asking for approval. Continue with each task until you have finished the story, then stop and wait for me to review. Make sure to look at the definition of done. Before moving to the next task in the list, make sure to also use puppeteer mcp server to verify front-end tasks when necessary. Check for linting errors before moving to next task, always.
+
+Before implementing the feature, I want you to read the entire md file, think about it, check the acceptance criteria, check the current installed components, check components that will need to be installed to implement the feature and then execute the implementation step by step. If you are implement a front-end feature, make sure that you go to the back-end and check the routes and parameters for the end-point that you are going to call. Before you are done with it, I want you to double check all this against your implementation, to make sure that you are not missing any detail. DO NOT STOP UNTIL YOU ARE DONE WITH THE FEATURE.
+
+After you are done with the task, you should mark the checkbox regarding the task you have just executed.

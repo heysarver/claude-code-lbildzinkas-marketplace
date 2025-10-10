@@ -1,0 +1,41 @@
+{
+  "name": "lbildzinkas-marketplace",
+  "displayName": "Luiz's Fullstack Development Marketplace",
+  "description": "A curated collection of professional development plugins focused on fullstack development with FastAPI, React, and modern web technologies",
+  "owner": {
+    "name": "Luiz Bildzinkas",
+    "url": "https://github.com/lbildzinkas"
+  },
+  "homepage": "https://github.com/lbildzinkas/claude-code-market-place",
+  "plugins": [
+    {
+      "name": "fullstack-dev-suite",
+      "displayName": "Fullstack Development Suite",
+      "description": "Comprehensive fullstack development plugin with FastAPI/Python backend and React/Vite/Tailwind frontend conventions, featuring 82+ specialized AI agents and custom development workflows",
+      "version": "1.0.0",
+      "author": {
+        "name": "Luiz Bildzinkas",
+        "url": "https://github.com/lbildzinkas"
+      },
+      "source": {
+        "type": "git",
+        "url": "https://github.com/lbildzinkas/claude-code-market-place.git",
+        "path": "plugins/fullstack-dev-suite"
+      },
+      "homepage": "https://github.com/lbildzinkas/claude-code-market-place#fullstack-dev-suite",
+      "keywords": [
+        "fullstack",
+        "fastapi",
+        "python",
+        "react",
+        "vite",
+        "tailwind",
+        "typescript",
+        "development",
+        "agents",
+        "productivity"
+      ],
+      "license": "MIT"
+    }
+  ]
+}
