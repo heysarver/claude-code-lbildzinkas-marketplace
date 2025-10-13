@@ -17,11 +17,7 @@
         "name": "Luiz Bildzinkas",
         "url": "https://github.com/lbildzinkas"
       },
-      "source": {
-        "type": "git",
-        "url": "https://github.com/lbildzinkas/claude-code-market-place.git",
-        "path": "plugins/fullstack-dev-suite"
-      },
+      "source": "./plugins/fullstack-dev-suite",
       "homepage": "https://github.com/lbildzinkas/claude-code-market-place#fullstack-dev-suite",
       "keywords": [
         "fullstack",
