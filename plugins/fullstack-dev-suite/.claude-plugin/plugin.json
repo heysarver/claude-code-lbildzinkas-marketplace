@@ -2,7 +2,7 @@
   "name": "fullstack-dev-suite",
   "displayName": "Fullstack Development Suite",
   "description": "Comprehensive fullstack development plugin with FastAPI/Python backend and React/Vite/Tailwind frontend conventions, featuring 82+ specialized AI agents and custom development workflows",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "Luiz Bildzinkas",
     "url": "https://github.com/lbildzinkas"
