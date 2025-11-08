@@ -29,7 +29,7 @@ A comprehensive plugin that provides development conventions, specialized AI age
 
 1. Add this marketplace to Claude Code:
 ```bash
-/plugin marketplace add lbildzinkas/claude-code-market-place
+/plugin marketplace add heysarver/claude-code-lbildzinkas-marketplace
 ```
 
 2. Install the Fullstack Development Suite:
@@ -184,7 +184,7 @@ MIT License - See individual plugin licenses for details.
 ## Support
 
 For issues or questions:
-- Open an issue on [GitHub](https://github.com/lbildzinkas/claude-code-market-place/issues)
+- Open an issue on [GitHub](https://github.com/heysarver/claude-code-lbildzinkas-marketplace/issues)
 - Check the [Claude Code documentation](https://docs.claude.com/en/docs/claude-code)
 
 ## Version History

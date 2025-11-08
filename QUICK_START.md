@@ -7,7 +7,7 @@
 In Claude Code, run:
 
 ```bash
-/plugin marketplace add lbildzinkas/claude-code-market-place
+/plugin marketplace add heysarver/claude-code-lbildzinkas-marketplace
 ```
 
 ### Step 2: Install the Plugin
@@ -110,7 +110,7 @@ Claude:
 
 Make sure you added the marketplace first:
 ```bash
-/plugin marketplace add lbildzinkas/claude-code-market-place
+/plugin marketplace add heysarver/claude-code-lbildzinkas-marketplace
 ```
 
 ### Commands Not Available
@@ -125,7 +125,7 @@ Restart Claude Code after installation.
 
 ## Support
 
-- [GitHub Issues](https://github.com/lbildzinkas/claude-code-market-place/issues)
+- [GitHub Issues](https://github.com/heysarver/claude-code-lbildzinkas-marketplace/issues)
 - [Claude Code Docs](https://docs.claude.com/en/docs/claude-code)
 
 ---

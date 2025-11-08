@@ -188,7 +188,7 @@ Specification file management for project requirements.
 
 1. Add the marketplace:
 ```bash
-/plugin marketplace add lbildzinkas/claude-code-market-place
+/plugin marketplace add heysarver/claude-code-lbildzinkas-marketplace
 ```
 
 2. Install the plugin:
@@ -337,7 +337,7 @@ This plugin enforces:
 
 ## Contributing
 
-This plugin is part of a personal marketplace. For suggestions or issues, please open an issue on the [marketplace repository](https://github.com/lbildzinkas/claude-code-market-place/issues).
+This plugin is part of a personal marketplace. For suggestions or issues, please open an issue on the [marketplace repository](https://github.com/heysarver/claude-code-lbildzinkas-marketplace/issues).
 
 ## License
 
@@ -345,7 +345,7 @@ MIT License
 
 ## Support
 
-- [GitHub Issues](https://github.com/lbildzinkas/claude-code-market-place/issues)
+- [GitHub Issues](https://github.com/heysarver/claude-code-lbildzinkas-marketplace/issues)
 - [Claude Code Documentation](https://docs.claude.com/en/docs/claude-code)
 
 ---

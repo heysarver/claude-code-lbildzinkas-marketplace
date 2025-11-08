@@ -6,7 +6,7 @@
     "name": "Luiz Bildzinkas",
     "url": "https://github.com/lbildzinkas"
   },
-  "homepage": "https://github.com/lbildzinkas/claude-code-market-place",
+  "homepage": "https://github.com/heysarver/claude-code-lbildzinkas-marketplace",
   "plugins": [
     {
       "name": "fullstack-dev-suite",
@@ -17,7 +17,7 @@
         "url": "https://github.com/lbildzinkas"
       },
       "source": "./plugins/fullstack-dev-suite",
-      "homepage": "https://github.com/lbildzinkas/claude-code-market-place#fullstack-dev-suite",
+      "homepage": "https://github.com/heysarver/claude-code-lbildzinkas-marketplace#fullstack-dev-suite",
       "keywords": [
         "fullstack",
         "fastapi",
